@@ -54,11 +54,11 @@ home:
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
-  footer_content: A gem-based responsive simple texture styled <a href="http://jekyllrb.com/">Jekyll</a> theme.
+  footer_content: Hy-choi, AI reseacher in Seoul, Korea.
 
 disqus:
-  shortname: # e.g. yizeng
-  public_key: # e.g. ULZ0b9TFefCUJHKQd4JCKv2v3u27YoG7YG8zXPewkWrT333Z0Se9YnxLzoV6VM8W
+  shortname: hy-choi # e.g. yizeng
+  public_key: 4I6gcHIfEI6PILgBZ7jdhEa1dii4WvhQoMwLCxmp5Ez2Htvri5t5HkBEaxBn6bCU # e.g. ULZ0b9TFefCUJHKQd4JCKv2v3u27YoG7YG8zXPewkWrT333Z0Se9YnxLzoV6VM8W
 google_tag_manager: # e.g. 'GTM-KCQJXZ8F'
 addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. ra-53329e27694534j5 
 
