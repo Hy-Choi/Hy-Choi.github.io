@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "딥러닝을 통한 자연어 처리 강의 정리 -4"
+title: "딥러닝을 통한 자연어 처리 강의 정리 part 4"
 description: " edwith에 조경현 교수님께서 진행하신 딥러닝을 통한 자연어 처리 강의를 정리, Summary, Questions 부분"
 categories: [Lecture]
 tags: [edwith, Deeplearning, NLP]
@@ -11,6 +11,8 @@ redirect_from:
 
 
 # Summary
+
+(본 내용은 edwith에 조경현 교수님께서 진행하신 딥러닝을 통한 자연어 처리 강의를 정리한 것이다. 중간에 나오는 자료도 참조하였다.)
 
 - Hypothesis 
   - 신경망의 구조를 디자인하는 것 - DAG(directed acyclec graph)를 만들기

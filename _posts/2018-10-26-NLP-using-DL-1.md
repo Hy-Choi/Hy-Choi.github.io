@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "딥러닝을 통한 자연어 처리 강의 정리 -1"
+title: "딥러닝을 통한 자연어 처리 강의 정리 part 1"
 description: " edwith에 조경현 교수님께서 진행하신 딥러닝을 통한 자연어 처리 강의를 정리, Introduction, Overview, Hypothesis sets 부분"
 categories: [Lecture]
 tags: [edwith, Deeplearning, NLP]
@@ -8,9 +8,10 @@ redirect_from:
   - /2018/10/26/
 ---
 
-(본 내용은 edwith에 조경현 교수님께서 진행하신 딥러닝을 통한 자연어 처리 강의를 정리한 것이다. 중간에 나오는 자료도 참조하였다.)
 
 ### Introduction, Overview, Hypothesis sets 3강좌 정리
+
+(본 내용은 edwith에 조경현 교수님께서 진행하신 딥러닝을 통한 자연어 처리 강의를 정리한 것이다. 중간에 나오는 자료도 참조하였다.)
 
 최근 머신러닝의 트렌드는 "궁극적으로 다양한 머신러닝 기법에서 지금 하는 것은 슈퍼바이즈드 러닝 문제로 어떻게 바꾸는 것인가"이다.
 

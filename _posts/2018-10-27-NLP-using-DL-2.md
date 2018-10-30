@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "딥러닝을 통한 자연어 처리 강의 정리 -2"
+title: "딥러닝을 통한 자연어 처리 강의 정리 part 2"
 description: " edwith에 조경현 교수님께서 진행하신 딥러닝을 통한 자연어 처리 강의를 정리, Loss Function, Probability 부분"
 categories: [Lecture]
 tags: [edwith, Deeplearning, NLP]
@@ -9,9 +9,10 @@ redirect_from:
 
 ---
 
+### Loss Function
+
 (본 내용은 edwith에 조경현 교수님께서 진행하신 딥러닝을 통한 자연어 처리 강의를 정리한 것이다. 중간에 나오는 자료도 참조하였다.)
 
-### Loss Function
 
 Loss function을 정의하는 연습을 하기위해서 Probability 이론을 짧게 짚고 넘어가고 있다.
 
