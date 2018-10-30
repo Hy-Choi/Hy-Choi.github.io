@@ -11,14 +11,11 @@ redirect_from:
 
 # How do we optimize the loss function?
 
-(본 내용은 edwith에 조경현 교수님께서 진행하신 딥러닝을 통한 자연어 처리 강의를 정리한 것이다. 중간에 나오는 자료도 참조하였다.)
-
 
 - 지도 학습(Supervised Learning)을 하기위해서 우리가 현재 준비된것.
   - 인공 신경망 모델 구조, Loss 정의, graph 구성
 
 ![image-20181030171718451](/Users/hyunyoung/Library/Application Support/typora-user-images/image-20181030171718451.png)
-
 
 
 #### Optimization 하는 두가지 방법
@@ -87,3 +84,5 @@ redirect_from:
 - Learning rate를 정하는 방법에 대한 문제.=> Adaptive Learning rate
   - SGD의 문제 = Variance(노이즈)가 큼
   - Adam, Adadelta 등의 Optimizer가 존재
+
+**본 내용은 edwith에 조경현 교수님께서 진행하신 딥러닝을 통한 자연어 처리 강의를 정리한 것이다. 중간에 나오는 자료도 참조하였다.**

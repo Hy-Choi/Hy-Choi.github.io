@@ -9,10 +9,8 @@ redirect_from:
 
 ---
 
+
 ### Loss Function
-
-(본 내용은 edwith에 조경현 교수님께서 진행하신 딥러닝을 통한 자연어 처리 강의를 정리한 것이다. 중간에 나오는 자료도 참조하였다.)
-
 
 Loss function을 정의하는 연습을 하기위해서 Probability 이론을 짧게 짚고 넘어가고 있다.
 
@@ -65,4 +63,6 @@ Gaussian distribution
 - 예를 들어 아래에 Logistic Regresion을 보자. 궁극적으로 Loss를 계산하는 것까지 DAG를 그린다.
 
 ![image-20181024181930281](/Users/hyunyoung/Library/Application%20Support/typora-user-images/image-20181024181930281.png)
+
+**본 내용은 edwith에 조경현 교수님께서 진행하신 딥러닝을 통한 자연어 처리 강의를 정리한 것이다. 중간에 나오는 자료도 참조하였다.**
 

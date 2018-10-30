@@ -12,8 +12,6 @@ redirect_from:
 
 # Summary
 
-(본 내용은 edwith에 조경현 교수님께서 진행하신 딥러닝을 통한 자연어 처리 강의를 정리한 것이다. 중간에 나오는 자료도 참조하였다.)
-
 - Hypothesis 
   - 신경망의 구조를 디자인하는 것 - DAG(directed acyclec graph)를 만들기
 - 최적의 Loss function 결정
@@ -49,3 +47,5 @@ redirect_from:
   - 중요한 포인트가 학습 데이터가 독립적인 가정, 질문과 같이 bias한 데이터인 경우에는 어떤 bias인지가 중요
   - 예를 들어, Sampling 방식을 바꾼다. bias의 형태를 알고, 기본적인 몬테 카를로 Sampling이 아닌 다른 방식. 
   - 만약 bias가 어떤지 전혀 모른다면, Validation set을 조심스럽게 정확히 만든다.
+
+**본 내용은 edwith에 조경현 교수님께서 진행하신 딥러닝을 통한 자연어 처리 강의를 정리한 것이다. 중간에 나오는 자료도 참조하였다.**
