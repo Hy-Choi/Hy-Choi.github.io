@@ -22,7 +22,7 @@ sass:
   style: compressed
 
 # Site Data
-url: https://hy-choi.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
+url: https://hy-choi.github.io # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:  # the subpath of your site, e.g. /blog
 title: Review life and DL
 description: "인공지능 공부 노트"
