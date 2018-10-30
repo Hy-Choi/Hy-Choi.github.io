@@ -23,7 +23,7 @@ sass:
 
 # Site Data
 url: https://hy-choi.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: https://hy-choi.github.io/blog/ # the subpath of your site, e.g. /blog
+baseurl: /blog # the subpath of your site, e.g. /blog
 title: Review life and DL
 description: "인공지능 공부 노트"
 keywords: 'Deep learning, AI, DL, ML'
