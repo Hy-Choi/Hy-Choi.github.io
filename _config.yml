@@ -59,7 +59,7 @@ blog:
 disqus:
   shortname: hy-choi # e.g. yizeng
   public_key: 4I6gcHIfEI6PILgBZ7jdhEa1dii4WvhQoMwLCxmp5Ez2Htvri5t5HkBEaxBn6bCU # e.g. ULZ0b9TFefCUJHKQd4JCKv2v3u27YoG7YG8zXPewkWrT333Z0Se9YnxLzoV6VM8W
-google_tag_manager: # e.g. 'GTM-KCQJXZ8F'
+google_tag_manager: GTM-TQLR3GM # e.g. 'GTM-KCQJXZ8F'
 addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/. E.g. ra-53329e27694534j5 
 
 paths:
