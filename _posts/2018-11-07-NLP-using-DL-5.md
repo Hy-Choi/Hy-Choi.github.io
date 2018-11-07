@@ -164,3 +164,7 @@ keyword - tokens, Vocabulary, Encoding, Continous vector space
   - Backpropagtion은 Loss function으로 부터 각 노드가 어떤 영향을 주는지 전파 되며 계산하는데, 예를 들어 어떠한 Weight가 긍정적인 영향을 주면 값을 올리고, 부정적인 영향을 주면 값을 줄이는 것이다.
   - Parameter 초기화가 제대로 되지않으면 어떤 Weight가 긍정적이고 부정적인지 판단이 안되어서 학습이 안되는 문제가 있다
   - Parameter 초기화가 까다롭지만, 최근에 Self-attention을 이용할때 어떤 Parameter가 중요한지 나온 논문 존재
+
+
+
+**본 내용은 edwith에 조경현 교수님께서 진행하신 딥러닝을 통한 자연어 처리 강의를 정리한 것이다. 중간에 나오는 자료도 참조하였다.**
